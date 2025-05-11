@@ -8,7 +8,7 @@ namespace CriandoAPI.Controllers
 {
     [ApiController]
     [Route("[controller]")]
-    public class UsurarioController : ControllerBase
+    public class UsuarioController : ControllerBase
     {
         [HttpGet("ObterDataHoraAtual")]
         public IActionResult ObterDataHora()
@@ -20,6 +20,13 @@ namespace CriandoAPI.Controllers
             };
 
             return Ok(obj);
+        }
+
+        [HttpGet("Apresentar/{nome}")]
+        public IActionResult Apresentar(string nome)
+        {
+            var mensagem = $"Olá {nome}, seja bem vindo!";
+            return Ok( new {mensagem});
         }
     }
 }

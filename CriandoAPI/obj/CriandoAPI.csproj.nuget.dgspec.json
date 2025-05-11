@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gabriel Balduino\\Documents\\Estudos\\C#\\Dio\\API\\CriandoAPI\\CriandoAPI.csproj": {}
+    "C:\\Users\\Gabriel\\Documents\\Study\\API.NET\\CriandoAPI\\CriandoAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gabriel Balduino\\Documents\\Estudos\\C#\\Dio\\API\\CriandoAPI\\CriandoAPI.csproj": {
+    "C:\\Users\\Gabriel\\Documents\\Study\\API.NET\\CriandoAPI\\CriandoAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gabriel Balduino\\Documents\\Estudos\\C#\\Dio\\API\\CriandoAPI\\CriandoAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Gabriel\\Documents\\Study\\API.NET\\CriandoAPI\\CriandoAPI.csproj",
         "projectName": "CriandoAPI",
-        "projectPath": "C:\\Users\\Gabriel Balduino\\Documents\\Estudos\\C#\\Dio\\API\\CriandoAPI\\CriandoAPI.csproj",
-        "packagesPath": "C:\\Users\\Gabriel Balduino\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gabriel Balduino\\Documents\\Estudos\\C#\\Dio\\API\\CriandoAPI\\obj\\",
+        "projectPath": "C:\\Users\\Gabriel\\Documents\\Study\\API.NET\\CriandoAPI\\CriandoAPI.csproj",
+        "packagesPath": "C:\\Users\\Gabriel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gabriel\\Documents\\Study\\API.NET\\CriandoAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Gabriel Balduino\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Gabriel\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -38,9 +36,9 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
+          "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net9.0": {
@@ -74,7 +72,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100-rc.2.24474.11/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
