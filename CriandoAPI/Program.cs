@@ -1,6 +1,12 @@
+using CriandoAPI.Context;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+builder.Services.AddDbContext<AgendaContext>(options => 
+    options.UseMySQL(builder.Configuration.GetConnectionString("ConexaoPadrao"))); //string de conexão ao banco de dados MYSQL
+
 // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
 // Adiciona o serviço do Swagger/OpenAPI
 builder.Services.AddControllers();
