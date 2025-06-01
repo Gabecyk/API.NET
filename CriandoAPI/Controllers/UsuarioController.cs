@@ -8,7 +8,7 @@ namespace CriandoAPI.Controllers
 {
     [ApiController]
     [Route("[controller]")]
-    public class UsurarioController : ControllerBase
+    public class UsuarioController : ControllerBase
     {
         [HttpGet("ObterDataHoraAtual")]
         public IActionResult ObterDataHora()

@@ -1,9 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "odQN71785WY=",
+=======
+  "dgSpecHash": "KM0z3FKnjEo=",
+>>>>>>> d40b77fad257fc430e519913499da5ce845570ff
   "success": true,
-  "projectFilePath": "C:\\Users\\Gabriel Balduino\\Documents\\Estudos\\C#\\Dio\\API\\CriandoAPI\\CriandoAPI.csproj",
+  "projectFilePath": "C:\\Users\\Gabriel\\Documents\\Study\\API.NET\\CriandoAPI\\CriandoAPI.csproj",
   "expectedPackageFiles": [
+<<<<<<< HEAD
     "C:\\Users\\Gabriel Balduino\\.nuget\\packages\\bouncycastle.cryptography\\2.5.1\\bouncycastle.cryptography.2.5.1.nupkg.sha512",
     "C:\\Users\\Gabriel Balduino\\.nuget\\packages\\google.protobuf\\3.30.0\\google.protobuf.3.30.0.nupkg.sha512",
     "C:\\Users\\Gabriel Balduino\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
@@ -76,6 +81,15 @@
     "C:\\Users\\Gabriel Balduino\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
     "C:\\Users\\Gabriel Balduino\\.nuget\\packages\\system.windows.extensions\\8.0.0\\system.windows.extensions.8.0.0.nupkg.sha512",
     "C:\\Users\\Gabriel Balduino\\.nuget\\packages\\zstdsharp.port\\0.8.5\\zstdsharp.port.0.8.5.nupkg.sha512"
+=======
+    "C:\\Users\\Gabriel\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.0-rc.2.24474.3\\microsoft.aspnetcore.openapi.9.0.0-rc.2.24474.3.nupkg.sha512",
+    "C:\\Users\\Gabriel\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Gabriel\\.nuget\\packages\\microsoft.openapi\\1.6.23\\microsoft.openapi.1.6.23.nupkg.sha512",
+    "C:\\Users\\Gabriel\\.nuget\\packages\\swashbuckle.aspnetcore\\8.1.1\\swashbuckle.aspnetcore.8.1.1.nupkg.sha512",
+    "C:\\Users\\Gabriel\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\8.1.1\\swashbuckle.aspnetcore.swagger.8.1.1.nupkg.sha512",
+    "C:\\Users\\Gabriel\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\8.1.1\\swashbuckle.aspnetcore.swaggergen.8.1.1.nupkg.sha512",
+    "C:\\Users\\Gabriel\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\8.1.1\\swashbuckle.aspnetcore.swaggerui.8.1.1.nupkg.sha512"
+>>>>>>> d40b77fad257fc430e519913499da5ce845570ff
   ],
   "logs": []
 }
